@@ -47,10 +47,6 @@ body {
 }
 
 /* hero */
-.hero-section {
-  padding-top: 80px;
-}
-
 .hero {
   display: flex;
   align-items: center;
@@ -379,7 +375,7 @@ body {
 /* footer */
 .footer {
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
-  padding: 100px 0   30px;
+  padding: 100px 0 30px;
   color: #ffffff;
   margin-top: 180px;
 }
